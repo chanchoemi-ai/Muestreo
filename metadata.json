@@ -1,0 +1,6 @@
+{
+  "name": "Muestreo Salmones",
+  "description": "Aplicación para muestreo biométrico de salmones con registro rápido de peso y longitud, estadísticas en tiempo real, gráficos de distribución y exportación a Excel, CSV y PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
